@@ -25,11 +25,11 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Python Virtual Environment
-/[Mm]lagents_env/
+/[Mm]lagents_[Ee]nv/
 
 # ML_Agents Models
 /[Mm]l-[Aa]gents/
-
+/[Mm]l[Aa]gents/
 #tensorflow
 /tf_env/
 
