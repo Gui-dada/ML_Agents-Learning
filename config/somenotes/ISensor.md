@@ -112,7 +112,7 @@ GridSensorComponent - Uses a set of box queries in a grid shape as observations.
 
 ------
 
-如你正在做**战术类 FPS 模拟、训练战斗 NPC 等智能体**，推荐组合使用：
+正在做**战术类 FPS 模拟、训练战斗 NPC 等智能体**，推荐组合使用：
 
 - `RayPerceptionSensorComponent3D`（方向性感知）
 - `GridSensorComponent3D`（体积感知，含遮挡、遮蔽判断）

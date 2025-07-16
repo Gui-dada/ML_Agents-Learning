@@ -40,7 +40,6 @@ public class RollerAgent : Agent
     public override void CollectObservations(VectorSensor sensor)
     {
         //总共八个数据向量
-
         // Target and Agent positions
         sensor.AddObservation(Target.localPosition);//3
         sensor.AddObservation(this.transform.localPosition);//3
